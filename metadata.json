@@ -1,0 +1,6 @@
+{
+  "name": "ঘরোয়া বাজার",
+  "description": "স্বল্প মূল্যে পরিবারের বাজার - ঘরোয়া বাজার ডট কম (Ghoroya Bazar)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
